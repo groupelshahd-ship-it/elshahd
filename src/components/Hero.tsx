@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://i.imghippo.com/files/kF4451Wjk.jpg"
+          src="https://cdn.wikifarmer.com/images/detailed/2024/10/Understanding-the-Differences-Between-Meat-Chickens-and-Laying-Hens.png"
           alt="Fresh chicken products"
           className="w-full h-full object-cover"
         />
